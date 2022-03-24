@@ -1,4 +1,4 @@
-# [(TR)](TR-README.md) | (EN) Date & Time Node Usage Example
+# [(TR)](README_TR.md) | (EN) Date & Time Node Usage Example
 
 Other nodes we use in this example:
 + String To Date&Time
